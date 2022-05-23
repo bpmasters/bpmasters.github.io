@@ -1,17 +1,28 @@
 title: Benjamin Masters # your name (or website title) here
 logo: "/images/Logo.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Acoustical Engineer 
+  Acoustical Engineer
+  <br>
+  Bio: I have an interest in physical and musical acoustics, hearing science, and engineering design, and am always seeking opportunities in these areas.
+  Some examples of my work in each of these areas can be seen on this page.
+  <br>
+  Currently interning at Bose Corporation in Massachusetts
+  <br>
+  Starting graduate school this fall in Waterloo, Ontario, Canada
+  <br>
   <br><br>
-  MASc, Systems Design Engineering<br> University of Waterloo, Expected '24
+  Master of Applied Science<br>Systems Design Engineering<br>University of Waterloo, Expected '24
 
   <br><br>
 
-  BSE, Acoustical Engineering<br> Purdue University, May '22
+  Bachelor of Science in Engineering<br>Acoustical Engineering<br>Purdue University, May '22
   <br><br>
   <a href="https://www.linkedin.com/in/benjamin-p-masters/">View My LinkedIn Profile</a> 
   <br>
   <a href="/pdf/Resume.pdf">View My Resume</a>
+  <br><br>
+  Contact me:
+  Bpmasters@mac.com
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
