@@ -27,7 +27,8 @@
 
 ### Other Engineering Projects
 
-- [To be added](http://example.com/)
+- [Acoustic Filter Design](/pdf/AcousticFilterDesign.pdf)
+- [Toy Design - Torchic](/pdf/ToyDesign.pdf)
 
 ---
 
