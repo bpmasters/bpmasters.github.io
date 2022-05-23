@@ -3,12 +3,13 @@ logo: "/images/Logo.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Acoustical Engineer
   <br>
-  Bio: I have an interest in physical and musical acoustics, hearing science, and engineering design, and am always seeking opportunities in these areas.
+  Bio: 
+  During my career so far, I have gained experience in developing and validating acoustic testing methods for both R&D and QA teams in the medical device and consumer electronics industries.
+  Additionally, I have experience conducting independent academic research in the field of hearing science, where my work consisted of devising and carrying out experiments to asses performance of an open-source hearing aid platform.
+  I have an interest and passion for the overlap between the fields of engineering acoustics and hearing science, and am always interested in learning about opportunities in these areas.
   Some examples of my work in each of these areas can be seen on this page.
   <br>
   Currently interning at Bose Corporation in Massachusetts
-  <br>
-  Starting graduate school this fall in Waterloo, Ontario, Canada
   <br>
   <br><br>
   Master of Applied Science<br>Systems Design Engineering<br>University of Waterloo, Expected '24
@@ -16,6 +17,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
 
   Bachelor of Science in Engineering<br>Acoustical Engineering<br>Purdue University, May '22
+  <br>
+  Coursework:
+  <br>
+  Advanced Engineering Acoustics, Advanced C Programming, Engineering Acoustics, Finite Element Analysis, Noise Control, Signals and Systems, Stringed Instrument Design and Manufacturing
   <br><br>
   <a href="https://www.linkedin.com/in/benjamin-p-masters/">View My LinkedIn Profile</a> 
   <br>
