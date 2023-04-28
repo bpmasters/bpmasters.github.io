@@ -11,7 +11,7 @@ These are some speakers I built throught the Acoustical Society of America and A
 
 ## White Speakers
 
-The white speakers contain the components from GR Research, I believe the AV1+ kit, although I'm not entirely sure. The enclosures were CNC routed in MDF. These speakers were built by myself during the annual speaker building workshop, during my first year at Purdue. This process included gluing, prepping, and finishing the cabinets, soldering crossovers, and final assembly. Thanks to grant funding, these only cost $50 per pair for each student, and were built over a 3-day workshop. I'd have to say that they'd be a pretty good value (sound-wise) for 10x that price, although I could have done a better job at the finishing.
+The white speakers contain components from GR Research, I believe the AV1+ kit, although I'm not entirely sure. The enclosures were CNC routed in MDF. These speakers were built by myself during the annual speaker building workshop, during my first year at Purdue. This process included gluing, prepping, and finishing the cabinets, soldering crossovers, and final assembly. Thanks to grant funding, these only cost $50 per pair for each student, and were built over a 3-day workshop. I'd have to say that they'd be a pretty good value (sound-wise) for 10x that price, although I could have done a better job at the finishing.
 
 ## Blue Speakers
 

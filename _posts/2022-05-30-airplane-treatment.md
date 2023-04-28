@@ -2,7 +2,7 @@
 layout: post
 title:  "Lightweight Acoustic Treatment for Aircraft Fuselage"
 author: ben
-categories: [ Jekyll, tutorial ]
+categories: [ Design, Acoustics, Modeling ]
 image: assets/images/AirplaneDesign.png
 featured: true
 hidden: true
