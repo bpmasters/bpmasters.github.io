@@ -807,10 +807,12 @@ iframe {
     text-transform: lowercase;
     font-size: 0.8rem;
     display: inline-block;
+    justify-content: center;
 }
 
 .layout-page .jumbotron.fortags {
     display: none;
+    justify-content: center;
 }
 
 .mb-30px {
