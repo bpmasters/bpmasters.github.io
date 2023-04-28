@@ -14,9 +14,3 @@ I worked with a team of fellow students to complete this mathematical modeling e
 
 
 <iframe src="https://drive.google.com/file/d/1GcXLmHrp7ZqfF7GFRKvnnXymW4PJNTm7/preview" width="800" height="600" allow="autoplay"></iframe>
-
-#### So how do we do spoilers?
-
-```html
-<span class="spoiler">My hidden paragraph here.</span>
-```
