@@ -8,7 +8,7 @@ featured: true
 hidden: true
 ---
 
-The design of acoustic attenuation for an aircraft fuselage using mathematical modeling.
+The design of acoustic treatment for an aircraft fuselage using mathematical modeling.
 
 I worked with a team of fellow students to complete this mathematical modeling exercise describing a method for using a series of resistive screens to provide adequate acoustic attenuation for an aircraft cabin fuselage. We primarily utilized the transfer matrix method for modelling sound transmission and reflection. This was completed for ME 613 - Advanced Engineering Acoustics, taught by Dr. Bolton at Purdue University.
 
