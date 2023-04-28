@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Let's test spoilers"
+title:  "Lightweight Acoustic Treatment for Aircraft Fuselage"
 author: sal
 categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+image: assets/images/AirplaneDesign.png
 featured: true
 hidden: true
 ---
