@@ -493,12 +493,12 @@ ul.tags {
     list-style: none;
     padding-left: 0;
     margin: 0 0 3rem 0;
+    justify-content: center;
 }
 
 ul.tags li {
     display: inline-block;
     font-size: 0.9rem;
-    justify-content: center;
 }
 
 ul.tags li a {
