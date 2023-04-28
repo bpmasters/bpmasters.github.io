@@ -5,10 +5,9 @@ author: ben
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
 image: assets/images/11.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description: "A solid body electric guitar design. Completed for MET 349 - Stringed Instrument Design & Manufacturing at Purdue University."
 featured: true
 hidden: true
-rating: 4.5
 ---
 
 Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
