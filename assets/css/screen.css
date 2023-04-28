@@ -498,12 +498,13 @@ ul.tags {
 ul.tags li {
     display: inline-block;
     font-size: 0.9rem;
+    justify-content: center;
 }
 
 ul.tags li a {
     background: rgba(0, 0, 0, .05);
     color: rgba(0, 0, 0, .6);
-    border-radius: 1px;
+    border-radius: 2px;
     padding: 5px 10px;
 }
 
