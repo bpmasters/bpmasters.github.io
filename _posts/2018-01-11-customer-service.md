@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Inception Movie"
-author: john
+title:  "Guitar Design"
+author: ben
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
 image: assets/images/11.jpg
