@@ -4,19 +4,20 @@ title:  "Guitar Design"
 author: ben
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
-image: assets/images/guitardesignv3.jpg
+image: assets/images/guitardesignv3.png
 description: "A solid body electric guitar design. Completed for MET 349 - Stringed Instrument Design & Manufacturing at Purdue University."
 featured: true
 hidden: true
 ---
 
-Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
+This solid body guitar was designed for a course in stringed instrument design.
 
-#### How to use?
+#### Project Description
 
 It's actually really simple! Add the rating in your YAML front matter. It also supports halfs:
+Typically, during this course taught by Dr. Mark French at Purdue University, students would design a solid body electric guitar, and then build the guitar. However, I took this course when uncertainty surrounding Covid was very high, during the fall of 2020. For this reason, students still designed guitars, and then in the lab we built a stick dulcimer from scratch, and finished and assembled kit guitars.
 
-```html
+<!-- ```html
 ---
 layout: post
 title:  "Inception Movie"
@@ -27,4 +28,4 @@ image: assets/images/11.jpg
 description: "My review of Inception movie. Actors, directing and more."
 rating: 4.5
 ---
-```
+``` -->
