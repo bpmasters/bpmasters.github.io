@@ -14,7 +14,7 @@ comments: true
 
 <p>My experience is displayed in more detail in my resume below.</p>
 
-<iframe src="https://drive.google.com/file/d/1ilkbCXXVvA8BDGp_cSN1dH9yBsWg-mqm/preview" width="800" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1ilkbCXXVvA8BDGp_cSN1dH9yBsWg-mqm/preview" height="80%" width="800" allow="autoplay"></iframe>
 
 </div>
 </div>
