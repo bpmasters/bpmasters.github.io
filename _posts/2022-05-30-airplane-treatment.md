@@ -8,6 +8,8 @@ featured: true
 hidden: true
 ---
 
+<iframe src="https://drive.google.com/file/d/1GcXLmHrp7ZqfF7GFRKvnnXymW4PJNTm7/preview" width="640" height="480" allow="autoplay"></iframe>
+
 Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
 
 As in many similar films, such as Jacob's Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:
