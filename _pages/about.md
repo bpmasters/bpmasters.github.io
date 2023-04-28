@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: Benjamin Masters - About Me
 permalink: /about
 comments: true
 ---
