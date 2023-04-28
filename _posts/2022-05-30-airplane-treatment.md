@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Lightweight Acoustic Treatment for Aircraft Fuselage"
-author: sal
+author: ben
 categories: [ Jekyll, tutorial ]
 image: assets/images/AirplaneDesign.png
 featured: true
 hidden: true
 ---
 
-<iframe src="https://drive.google.com/file/d/1GcXLmHrp7ZqfF7GFRKvnnXymW4PJNTm7/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1GcXLmHrp7ZqfF7GFRKvnnXymW4PJNTm7/preview" width="800" height="600" allow="autoplay"></iframe>
 
 Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
 
