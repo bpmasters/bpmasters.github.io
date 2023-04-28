@@ -503,7 +503,7 @@ ul.tags li {
 ul.tags li a {
     background: rgba(0, 0, 0, .05);
     color: rgba(0, 0, 0, .6);
-    border-radius: 3px;
+    border-radius: 1px;
     padding: 5px 10px;
 }
 
@@ -767,7 +767,7 @@ iframe {
     color: #fff;
 }
 
-@media (min-width:1200px) {
+@media (min-width:768px) {
     .jumbotron.fortags {
         margin-bottom: -50px;
         margin-top: 3rem;
@@ -799,7 +799,7 @@ iframe {
 .jumbotron.fortags a {
     padding: 5px 10px 7px;
     background: #222;
-    border-radius: 15px;
+    border-radius: 10px;
     border-color: #fff;
     color: #fff;
     font-weight: 500;
