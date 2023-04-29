@@ -6,7 +6,7 @@ categories: [ Audio, Acoustics, DIY, Maker, Tech ]
 image: assets/images/Speakers.JPEG
 ---
 
-These are some speakers I built throught the Acoustical Society of America and Audio Engineering Society student chapters at Purdue University. 
+These are some speakers I built through the Acoustical Society of America and Audio Engineering Society student chapters at Purdue University. 
 
 
 ## White Speakers
