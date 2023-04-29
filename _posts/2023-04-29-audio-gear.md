@@ -4,6 +4,7 @@ title:  "My Gear"
 author: ben
 categories: [ Audio, Acoustics, Tech ]
 image: assets/images/speakerart.jpeg
+hidden: true
 ---
 
 The audio gear I have and use on a daily basis.
