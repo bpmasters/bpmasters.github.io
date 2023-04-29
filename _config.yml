@@ -1,7 +1,7 @@
 # Site
 name: "bpm acoustics"
 title: "bpmasters.me"
-description: "A portfolio and blog for my work and hobbies, including acoustics, music, hearing, speech, and much more."
+description: "A portfolio of my work and hobbies, including acoustics, music, hearing, speech, and much more."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 # google_analytics: 'UA-46278016-1'
@@ -20,7 +20,7 @@ authors:
     email: bpmasters@mac.com
     web: 
     twitter: 
-    description: "Acoustic and Audio Engineer blogging about my work and interests."
+    description: "Acoustic and Audio Engineer"
   # john:
   #   name: John
   #   display_name: John    
