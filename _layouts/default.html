@@ -111,9 +111,11 @@ ga('send', 'pageview');
 <!-- Site Title
 ================================================== -->
 <div class="mainheading">
-    <h1 class="sitetitle">{{ site.name }}</h1>
+    <h1 class="sitetitle">
+        a class="title-link" href="{{ site.baseurl }}/">{{ site.name }}</a>
+    </h1>
     <p class="lead">
-        <a class="title-link" href="{{ site.baseurl }}/">{{ site.description }}</a>
+        {{ site.description }}
     </p>
 </div>
 
