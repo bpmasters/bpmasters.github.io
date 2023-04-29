@@ -12,12 +12,12 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 a {
-    color: #00ab6b;
+    color: #202327;
     transition: all 0.2s;
 }
 
 a:hover {
-    color: #038252;
+    color: #141618;
     text-decoration: none;
 }
 
@@ -902,8 +902,4 @@ iframe {
 .lazyimg[data-srcset] {
     opacity: 0;
     transition: opacity .25s;
-}
-
-.title-link {
-    color:black
 }
