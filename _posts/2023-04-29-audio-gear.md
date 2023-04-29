@@ -13,7 +13,7 @@ The audio gear I have and use on a daily basis.
 My interest in audio equipment started with headphones, so naturally I have a few pairs.
 
 ## Daily Driver
-My daily driver's are the Sennheiser HD 598, I've had these for probably 7-8 years at this point and use them daily because they are by far the most comfortable headphone I've ever worn. I've had to replace the earpads and headband once, but they live on. It's also nice that they're easy to drive, as based on my desk setup at the time, I may or may not have a dedicated headphone amp, but I always have an interface on my desk which easily powers these.
+My daily driver is the Sennheiser HD 598, I've had these for probably 7-8 years at this point and use them daily because they are by far the most comfortable headphone I've ever worn. I've had to replace the earpads and headband once, but they live on. It's also nice that they're easy to drive, as based on my desk setup at the time, I may or may not have a dedicated headphone amp, but I always have an interface on my desk which easily powers these.
 
 ## Wireless
 I collected a couple pairs of wireless ANC headphones during my stint at Bose. I have a pair of QC35 ii's and a pair of QC45's. These were my first ever experience with ANC and it's pretty remarkable. They sound pretty good to me too, especially in the low-end, as I typically wear open-backs which fall off hard at low frequencies.
@@ -44,7 +44,7 @@ I have a Schiit Magni 3 Heresy. It sucks. It sounded fine when I got it, but the
 I use a Universal Audio Volt 276. I really like the compressor, despite thinking I would never use it when I bought it, and I never need more than 2 inputs or outputs. It also looks very nice on my desk with the wood siding and I love the top facing knobs.
 
 # Microphones
-As ashamed as I am to admit it, I was using a webcam mic for a long time, and still frequently do. More recently, I needed two microphones for some work I was doing as part of my thesis, so I picked up a matched pair of monoprice pencil condenser mics. They don't sound great, but they do job. I have them set up in a stereo configuration mounted above my monitor currently. I also have a measurement mic that I was using for some room correction projects at Purdue.
+As ashamed as I am to admit it, I was using a webcam mic for a long time, and still frequently do. More recently, I needed two microphones for some work I was doing as part of my thesis, so I picked up a matched pair of monoprice pencil condenser mics. They don't sound great, but they do the job. I have them set up in a stereo configuration mounted above my monitor currently. I also have a measurement mic that I was using for some room correction projects at Purdue.
 
 # Guitars
 I have two guitars currently, they're both frankenstrats. I started with a '99 Mexican Strat in Midnight Blue. This was a really nice guitar, but I'm a tinkerer and like to change things, so I put new pickups in it, changed the pickguard, and eventually fit a new neck on it. I then took the old Fender neck and put it on the guitar I built in the guitar building course at Purdue, because the kit neck was absolutely terrible despite my best efforts to level and recrown the frets and set it up otherwise. So now I have two franken strats, one with Texas Special SSS pickups, and the other with some Seymour Duncan Humbuckers. They are both a dream to play and sound quite good.
