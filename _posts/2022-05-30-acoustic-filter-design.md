@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lightweight Acoustic Treatment for Aircraft Fuselage"
+title:  "Passive Acoustic Filter Design for Temperature Humidity Chamber"
 author: ben
 categories: [ Design, Acoustics, Modeling ]
 image: assets/images/acousticfilterdesign.png

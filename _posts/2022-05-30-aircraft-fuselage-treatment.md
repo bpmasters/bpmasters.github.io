@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lightweight Acoustic Treatment for Aircraft Fuselage"
+title:  "Lightweight Acoustic Lining Design for Aircraft Fuselage"
 author: ben
 categories: [ Design, Acoustics, Modeling ]
 image: assets/images/AirplaneDesign.png
