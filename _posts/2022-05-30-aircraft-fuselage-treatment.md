@@ -4,8 +4,6 @@ title:  "Lightweight Acoustic Treatment for Aircraft Fuselage"
 author: ben
 categories: [ Design, Acoustics, Modeling ]
 image: assets/images/AirplaneDesign.png
-featured: true
-hidden: true
 ---
 
 The design of acoustic treatment for an aircraft fuselage using mathematical modeling.
