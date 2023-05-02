@@ -14,7 +14,7 @@ comments: true
 
 <p>My experience is displayed in more detail in my resume below.</p>
 
-<iframe onload=resizeIframe(this) src="https://drive.google.com/file/d/1ilkbCXXVvA8BDGp_cSN1dH9yBsWg-mqm/preview" width="100%" allow="autoplay"></iframe>
+<iframe onload="resizeIframe(this)" src="https://drive.google.com/file/d/1ilkbCXXVvA8BDGp_cSN1dH9yBsWg-mqm/preview" width="100%" allow="autoplay"></iframe>
 
 <script type="text/javascript">
   function resizeIframe(iframe) {
