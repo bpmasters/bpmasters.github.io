@@ -25,5 +25,12 @@ comments: true
   }
 </script> 
 
+<style>
+.resumeIframe {
+    width: 80vw;
+    height: 80vh;
+}
+</style>
+
 </div>
 </div>
