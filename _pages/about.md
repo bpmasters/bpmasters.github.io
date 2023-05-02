@@ -18,12 +18,16 @@ comments: true
     
 <script>
     var frame = document.getElementById("resumeiframe");
-    frame.onload = function()
-    {
-        frame.style.height = 
-        frame.contentWindow.document.body.scrollHeight + 'px';
-        frame.style.width  = 
-        frame.contentWindow.document.body.scrollWidth+'px';
+    // frame.onload = function()
+    // {
+    //     fr
+    //     frame.style.height = frame.contentWindow.document.body.scrollHeight + 'px';
+    //     frame.style.width  = 
+    //     frame.contentWindow.document.body.scrollWidth+'px';
+    // }
+    if(frame) {
+        frame.height = ""
+        frame.height = frame.contentWindow.document.body.scrollHeight + "px"
     }
 </script>
 
