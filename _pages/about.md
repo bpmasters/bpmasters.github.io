@@ -25,7 +25,7 @@ comments: true
         frame.style.width  = 
         frame.contentWindow.document.body.scrollWidth+'px';
     }
-    </script>
+</script>
 
 </div>
 </div>
