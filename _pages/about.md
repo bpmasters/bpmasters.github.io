@@ -15,7 +15,7 @@ comments: true
 <p>My experience is displayed in more detail in my resume below.</p>
 <div class="resumeIframe">
 <!-- <iframe onload="resizeIframe(this)" src="https://bpmasters.me/assets/pdf/resume.pdf" width="100%" allow="autoplay"></iframe> -->
-<iframe src="https://bpmasters.me/assets/pdf/resume.pdf" style="height:80vh;" height="100%" allow="autoplay"></iframe>
+<iframe src="https://bpmasters.me/assets/pdf/resume.pdf" style="height:80vh;" width="100%" allow="autoplay"></iframe>
 </div>
 
 <script type="text/javascript">
