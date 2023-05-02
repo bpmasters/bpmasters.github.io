@@ -14,7 +14,18 @@ comments: true
 
 <p>My experience is displayed in more detail in my resume below.</p>
 
-<iframe id="resumeiframe" src="https://drive.google.com/file/d/1ilkbCXXVvA8BDGp_cSN1dH9yBsWg-mqm/preview" width="100%" height="1000" allow="autoplay"></iframe>
+<iframe id="resumeiframe" src="https://drive.google.com/file/d/1ilkbCXXVvA8BDGp_cSN1dH9yBsWg-mqm/preview" width="100%" allow="autoplay"></iframe>
+    
+<script>
+    var frame = document.getElementById("Iframe");
+    frame.onload = function()
+    {
+        frame.style.height = 
+        frame.contentWindow.document.body.scrollHeight + 'px';
+        frame.style.width  = 
+        frame.contentWindow.document.body.scrollWidth+'px';
+    }
+    </script>
 
 </div>
 </div>
