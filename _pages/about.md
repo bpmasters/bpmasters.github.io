@@ -13,8 +13,10 @@ comments: true
 <p>I hold a Bachelor of Science in Acoustical Engineering from Purdue University, which was awarded in 2022. During this time, I worked as an Acoustic Engineer Intern at both Starkey Hearing Technologies, a major global hearing aid manufacturer, and Bose Corporation, a widely recognized audio technology company. I also worked as a research assistant in the Department of Speech, Language, and Hearing Science, where my work focused on evaluating the performance of an open-source hearing aid.</p>
 
 <p>My experience is displayed in more detail in my resume below.</p>
-
-<iframe onload="resizeIframe(this)" src="https://bpmasters.me/assets/pdf/resume.pdf" width="100%" allow="autoplay"></iframe>
+<div class="resumeIframe">
+<!-- <iframe onload="resizeIframe(this)" src="https://bpmasters.me/assets/pdf/resume.pdf" width="100%" allow="autoplay"></iframe> -->
+<iframe src="https://bpmasters.me/assets/pdf/resume.pdf" allow="autoplay"></iframe>
+</div>
 
 <script type="text/javascript">
   function resizeIframe(iframe) {

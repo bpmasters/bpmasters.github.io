@@ -903,3 +903,8 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+
+.resumeIframe {
+    width: 100vw;
+    height: 100vh;
+}
