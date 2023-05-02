@@ -17,7 +17,7 @@ comments: true
 <iframe id="resumeiframe" src="https://drive.google.com/file/d/1ilkbCXXVvA8BDGp_cSN1dH9yBsWg-mqm/preview" width="100%" allow="autoplay"></iframe>
     
 <script>
-    var frame = document.getElementById("Iframe");
+    var frame = document.getElementById("resumeIframe");
     frame.onload = function()
     {
         frame.style.height = 
