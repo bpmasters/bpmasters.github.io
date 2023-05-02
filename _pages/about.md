@@ -5,12 +5,6 @@ permalink: /about
 comments: true
 ---
 
-<script type="text/javascript">
-    function resizeIframe(iframe) {
-        iframe.height = iframe.contentWindow.document.body.scrollHeigh + "px";
-    }
-</script>
-
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
@@ -21,6 +15,12 @@ comments: true
 <p>My experience is displayed in more detail in my resume below.</p>
 
 <iframe onload=resizeIframe(this) src="https://drive.google.com/file/d/1ilkbCXXVvA8BDGp_cSN1dH9yBsWg-mqm/preview" width="100%" allow="autoplay"></iframe>
+
+<script type="text/javascript">
+  function resizeIframe(iframe) {
+    iframe.height = iframe.contentWindow.document.body.scrollHeight + "px";
+  }
+</script> 
 
 </div>
 </div>
