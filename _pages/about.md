@@ -18,7 +18,7 @@ comments: true
 
 <script type="text/javascript">
   function resizeIframe(iframe) {
-    iframe.height = iframe.contentWindow.document.body.scrollHeight + "px";
+    iframe.height = iframe.contentWindow.document.documentElement.scrollHeight + "px";
   }
 </script> 
 
