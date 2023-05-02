@@ -314,7 +314,6 @@ span.post-read-more a:hover {
 }
 
 .footer {
-    clear: both;
     border-top: 1px solid rgba(0, 0, 0, .05) !important;
     padding-top: 15px;
     padding-bottom: 12px;
@@ -903,8 +902,4 @@ iframe {
 .lazyimg[data-srcset] {
     opacity: 0;
     transition: opacity .25s;
-}
-
-.clear {
-    clear: both;
 }
