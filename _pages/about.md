@@ -5,6 +5,12 @@ permalink: /about
 comments: true
 ---
 
+<script type="text/javascript">
+    function resizeIframe(iframe) {
+        iframe.height = iframe.contentWindow.document.body.scrollHeigh + "px";
+    }
+</script>
+
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
@@ -14,22 +20,7 @@ comments: true
 
 <p>My experience is displayed in more detail in my resume below.</p>
 
-<iframe id="resumeiframe" src="https://drive.google.com/file/d/1ilkbCXXVvA8BDGp_cSN1dH9yBsWg-mqm/preview" width="100%" allow="autoplay"></iframe>
-    
-<script>
-    var frame = document.getElementById("resumeiframe");
-    // frame.onload = function()
-    // {
-    //     fr
-    //     frame.style.height = frame.contentWindow.document.body.scrollHeight + 'px';
-    //     frame.style.width  = 
-    //     frame.contentWindow.document.body.scrollWidth+'px';
-    // }
-    if(frame) {
-        frame.height = ""
-        frame.height = frame.contentWindow.document.body.scrollHeight + "px"
-    }
-</script>
+<iframe onload=resizeIframe(this) src="https://drive.google.com/file/d/1ilkbCXXVvA8BDGp_cSN1dH9yBsWg-mqm/preview" width="100%" allow="autoplay"></iframe>
 
 </div>
 </div>
