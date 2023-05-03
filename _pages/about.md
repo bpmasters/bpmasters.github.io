@@ -14,7 +14,7 @@ comments: true
 
 <p>My experience is displayed in more detail in my resume below.</p>
 
-<iframe src="https://bpmasters.me/assets/pdf/resume.pdf#view=FitW" style="height:800px;" width="640" allow="autoplay"></iframe>
+<iframe src="https://bpmasters.me/assets/pdf/resume.pdf#view=FitW" style="max-height:1000px;max-width:800px" width="80%" height="100%" allow="autoplay"></iframe>
 
 </div>
 </div>
