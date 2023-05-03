@@ -4,6 +4,8 @@ title:  "Loudspeaker building"
 author: ben
 categories: [ Audio, Acoustics, DIY, Maker, Tech ]
 image: assets/images/Speakers.JPEG
+featured: true
+hidden: true
 ---
 
 These are some speakers I built through the Acoustical Society of America and Audio Engineering Society student chapters at Purdue University. 

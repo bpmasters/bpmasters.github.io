@@ -5,8 +5,6 @@ author: ben
 categories: [ Design, Music, Guitar, Maker ]
 image: assets/images/guitardesignv3.png
 description: "A solid body electric guitar design. Completed for MET 349 - Stringed Instrument Design & Manufacturing at Purdue University."
-featured: true
-hidden: true
 ---
 
 This solid body guitar was designed for a course in stringed instrument design.
