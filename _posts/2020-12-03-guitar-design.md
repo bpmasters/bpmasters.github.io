@@ -15,7 +15,7 @@ Typically, during this course taught by Dr. Mark French at Purdue University, st
 
 A full resolution version of the engineering drawing, and a bill of materials can be seen below.
 
-<iframe src="https://drive.google.com/file/d/12lxeUbwWzWTe9_YFP5y_dMUhRZr8N5Zk/preview" width="800" height="600" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/12lxeUbwWzWTe9_YFP5y_dMUhRZr8N5Zk/preview" width="800" height="800" allow="autoplay"></iframe>
 <!-- ```html
 ---
 layout: post
