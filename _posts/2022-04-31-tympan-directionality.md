@@ -4,7 +4,6 @@ title:  "Measurement of Tympan Directionality"
 author: ben
 categories: [ Acoustics, Hearing, Audio, Tech ]
 image: assets/images/tympan.png
-hidden: true
 ---
 
 Experimental testing of directionality characteristics of an open-source hearing aid.
