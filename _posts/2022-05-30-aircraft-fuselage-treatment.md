@@ -2,7 +2,7 @@
 layout: post
 title:  "Lightweight Acoustic Lining Design for Aircraft Fuselage"
 author: ben
-categories: [ Design, Acoustics, Modeling ]
+categories: [ Acoustics, Modeling, Coursework ]
 image: assets/images/AirplaneDesign.png
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Passive Acoustic Filter Design for Temperature Humidity Chamber"
 author: ben
-categories: [ Design, Acoustics, Modeling ]
+categories: [ Acoustics, Modeling, Coursework ]
 image: assets/images/acousticfilterdesign.png
 ---
 

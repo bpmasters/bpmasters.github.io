@@ -2,7 +2,7 @@
 layout: post
 title:  "Underwater Acoustic Direction of Arrival for Motion Characterization"
 author: ben
-categories: [ Audio, Acoustics, DSP ]
+categories: [ Audio, Acoustics, DSP, Side Projects ]
 image: assets/images/diagram_asa_challenge.png
 featured: true
 hidden: true

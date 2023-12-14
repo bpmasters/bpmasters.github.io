@@ -2,7 +2,7 @@
 layout: post
 title:  "Guitar Design"
 author: ben
-categories: [ Design, Music, Guitar, Maker ]
+categories: [Audio, Music, Coursework]
 image: assets/images/guitardesignv3.png
 description: "A solid body electric guitar design. Completed for MET 349 - Stringed Instrument Design & Manufacturing at Purdue University."
 ---

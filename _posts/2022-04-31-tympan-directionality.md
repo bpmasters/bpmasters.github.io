@@ -2,7 +2,7 @@
 layout: post
 title:  "Measurement of Tympan Directionality"
 author: ben
-categories: [ Acoustics, Hearing, Audio, Tech ]
+categories: [ Acoustics, Hearing, Audio, Research]
 image: assets/images/tympan.png
 ---
 
