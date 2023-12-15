@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Portfolio
+permalink: /portfolio
 ---
 
 <!-- {% if page.url == "/portfolio" %} -->
