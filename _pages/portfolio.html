@@ -43,8 +43,12 @@ permalink: /portfolio
 
         {% for post in site.posts %}
 
-            {% include postbox.html %}
+            {% if post.featured != true %}
 
+                {% include postbox.html %}
+                
+            {% endif %}
+            
         {% endfor %}
 
     </div>
