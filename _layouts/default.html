@@ -74,35 +74,35 @@ ga('send', 'pageview');
             <ul class="navbar-nav ml-auto">
 
                 {% if page.url == "/" %}
-                <li class="nav-item active">
+                    <li class="nav-item active">
                 {% else %}
-                <li class="nav-item">
+                    <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
+                    <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
                 </li>
 
                 {% if page.url == "/portfolio" %}
-                <li class="nav-item active">
+                    <li class="nav-item active">
                 {% else %}
-                <li class="nav-item">
+                    <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/">Portfolio</a>
+                    <a class="nav-link" href="{{ site.baseurl }}/">Portfolio</a>
                 </li>
 
                 {% if page.url == "/about" %}
-                <li class="nav-item active">
+                    <li class="nav-item active">
                 {% else %}
-                <li class="nav-item">
+                    <li class="nav-item">
                 {% endif %}
                     <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
 
                 {% if page.url == "/awards" %}
-                <li class="nav-item active">
+                    <li class="nav-item active">
                 {% else %}
-                <li class="nav-item">
+                    <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/awards">Awards</a>
+                    <a class="nav-link" href="{{ site.baseurl }}/awards">Awards</a>
                 </li>
 
                 <!-- <li class="nav-item">
@@ -146,13 +146,13 @@ ga('send', 'pageview');
     </h1>
 </div>
 
-{% if page.url == '/'}
-<p class="lead">
-    {{ site.description }}
-</p>
-<p class="lead">
-    You can read more about me  <a href="{{ site.baseurl }}/about">here</a>.
-</p>
+{% if page.url == "/" %}
+    <p class="lead">
+        {{ site.description }}
+    </p>
+    <p class="lead">
+        You can read more about me  <a href="{{ site.baseurl }}/about">here</a>.
+    </p>
 {% endif %}
 
 
