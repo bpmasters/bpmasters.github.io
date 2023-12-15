@@ -78,6 +78,14 @@ ga('send', 'pageview');
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
+                </li>
+
+                {% if page.url == "/portfolio" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/">Portfolio</a>
                 </li>
 
@@ -136,13 +144,17 @@ ga('send', 'pageview');
     <h1 class="sitetitle">
         <a class="title-link" href="{{ site.baseurl }}/">{{ site.name }}</a>
     </h1>
-    <p class="lead">
-        {{ site.description }}
-    </p>
-    <p class="lead">
-        You can read more about me  <a href="{{ site.baseurl }}/about">here</a>.
-    </p>
 </div>
+
+{% if page.url == '/'}
+<p class="lead">
+    {{ site.description }}
+</p>
+<p class="lead">
+    You can read more about me  <a href="{{ site.baseurl }}/about">here</a>.
+</p>
+{% endif %}
+
 
 <!-- Content
 ================================================== -->
