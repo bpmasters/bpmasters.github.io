@@ -130,12 +130,13 @@
         <a class="title-link" href="{{ site.baseurl }}/">{{ site.name }}</a>
     </h1>
 </div> -->
-
-<div class="mainheading">
-    <h1 class="sitetitle">
-        <a class="title-link" href="{{ site.baseurl }}/">{{ site.name }}</a>
-    </h1>
-</div>
+{% if page.url == "/" %}
+    <div class="mainheading">
+        <h1 class="sitetitle">
+            <a class="title-link" href="{{ site.baseurl }}/">{{ site.name }}</a>
+        </h1>
+    </div>
+{% endif %}
 
 {% if page.url == "/" %}
     <div class="home-content">
