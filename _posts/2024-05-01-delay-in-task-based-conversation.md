@@ -11,4 +11,4 @@ hidden: true
 This experiment was based upon a novel real-time processing system which manipulated the turn-taking dynamics of a conversation as it was happening. By applying a delay to the microphone of one talker, we can simulate increases in the conversational floor-transfer offset distribution which mimic the behavioral changes observed in more difficult communication environments. The goal of this work was to determine if the timing of a partner's turn-taking was used as a cue to infer whether they are experiencing difficulty. 
 
 
-<iframe src="https://drive.google.com/file/d/1jBwYDJtuZsFCa4xXBRSqo3rn16l1CmOX/view?usp=sharing" style="width:100%;" height="800px" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1jBwYDJtuZsFCa4xXBRSqo3rn16l1CmOX/preview" style="width:100%;" height="800px" allow="autoplay"></iframe>
