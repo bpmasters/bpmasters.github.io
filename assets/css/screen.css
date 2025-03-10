@@ -323,7 +323,7 @@ span.post-read-more a:hover {
 
 .mediumnavigation .navbar-brand span {
     font-family: Merriweather;
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 .mainheading h1.sitetitle {
@@ -338,6 +338,7 @@ span.post-read-more a:hover {
 h1.sitetitle {
     font-family: Merriweather;
     font-weight: 50;
+    font-size: 1.5rem;
 }
 
 .footer {

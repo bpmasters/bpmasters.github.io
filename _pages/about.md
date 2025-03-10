@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-permalink: /about
+permalink: /cv
 comments: true
 ---
 
