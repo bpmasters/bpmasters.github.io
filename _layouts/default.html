@@ -46,9 +46,16 @@
     <div class="container pr-0">
 
     <!-- Begin Logo -->
-    <a class="navbar-brand" href="{{ site.baseurl }}/">
-    <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
-    </a>
+     {% if page.url == "/" %}
+        <a class="navbar-brand" href="{{ site.baseurl }}/">
+            <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
+        </a>
+    {% else %}
+        <a class="navbar-brand" href="{{ site.baseurl }}/">
+            <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
+            <span>Benjamin Masters</span>
+        </a>
+    {% endif %}
     <!-- End Logo -->
 
     <!-- Begin Heading Name -->
@@ -143,7 +150,7 @@
         You can read more about me  <a href="{{ site.baseurl }}/about">here</a>.
     </p>
     <p class="lead">
-        View my Portfolio <a href="{{ site.baseurl }}/portfolio">here</a>.
+        View my <a href="{{ site.baseurl }}/portfolio">CV</a>.
     </p>
 {% endif %}
 
