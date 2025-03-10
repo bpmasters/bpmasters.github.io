@@ -5,7 +5,7 @@ author: ben
 categories: [ Acoustics, Hearing, Audio, Machine Learning, Modeling, Coursework ]
 image: assets/images/SSLNetwork.png
 featured: false
-hidden: false
+hidden: true
 ---
 
 A biologically inspired and plausible neural network architecture for sound source localization on virtualized data.

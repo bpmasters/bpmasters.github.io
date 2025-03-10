@@ -4,6 +4,7 @@ title:  "Lightweight Acoustic Lining Design for Aircraft Fuselage"
 author: ben
 categories: [ Acoustics, Modeling, Coursework ]
 image: assets/images/AirplaneDesign.png
+hidden: true
 ---
 
 The design of acoustic treatment for an aircraft fuselage using mathematical modeling.

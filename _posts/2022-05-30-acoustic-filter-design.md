@@ -4,6 +4,7 @@ title:  "Passive Acoustic Filter Design for Temperature Humidity Chamber"
 author: ben
 categories: [ Acoustics, Modeling, Coursework ]
 image: assets/images/acousticfilterdesign.png
+hidden: true
 ---
 
 The design of a passive acoustic filter for a temperature humidity chamber.

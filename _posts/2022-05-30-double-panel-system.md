@@ -4,6 +4,7 @@ title:  "Acoustic Double Panel System Model"
 author: ben
 categories: [ Acoustics, Modeling, Coursework ]
 image: assets/images/DoublePanel.png
+hidden: true
 ---
 
 A mathematical model of a double-panel system, often used to significantly increase acoustic attenuation.

@@ -4,7 +4,6 @@ title:  "Acoustic Characterization and Localization of Dolphins"
 author: ben
 categories: [ Audio, Acoustics, DSP, Side Projects ]
 image: assets/images/asa24_image.png
-featured: true
 hidden: true
 ---
 
