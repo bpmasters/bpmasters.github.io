@@ -1,7 +1,8 @@
 # Site
 name: "Benjamin Masters"
 title: "bpmasters.me"
-description: "Hi! I'm Ben, an Acoustic Engineer and Researcher. On my site I detail some of my work, including my academic, research, and side projects."
+description: "I am a PhD student in biomedical engineering at the university of Waterloo. I primarily study the perception and measurement of effort in conversation. I work in the Hearing Lab where I am supervised by Ewen MacDonald. I have preivously obtained a Masters of Applied Science in systems design engineering, and a Bachelor of Science in Engineering with a concentration in Acoustics."
+photo_url: 'assets/images/avatar.jpeg'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 google_analytics: 'G-JSXGPYZBMQ'

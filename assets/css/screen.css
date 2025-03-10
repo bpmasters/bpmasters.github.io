@@ -21,6 +21,21 @@ a:hover {
     text-decoration: none;
 }
 
+.home-content {
+    display: flex;
+    align-items: center;
+}
+.description {
+    flex: 1;
+}
+.photo {
+    margin-left: 20px;
+}
+.photo img {
+    max-width: 100%;
+    height: auto;
+}
+
 pre {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
