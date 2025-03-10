@@ -45,17 +45,10 @@
 
     <div class="container pr-0">
 
-    <!-- Begin Logo -->
-     {% if page.url == "/" %}
-        <a class="navbar-brand" href="{{ site.baseurl }}/">
-            <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
-        </a>
-    {% else %}
-        <a class="navbar-brand" href="{{ site.baseurl }}/">
-            <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
-            <span>Benjamin Masters</span>
-        </a>
-    {% endif %}
+    <a class="navbar-brand" href="{{ site.baseurl }}/">
+        <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
+        <span>Benjamin Masters</span>
+    </a>
     <!-- End Logo -->
 
     <!-- Begin Heading Name -->
