@@ -24,18 +24,34 @@ a:hover {
 .home-content {
     display: flex;
     align-items: center;
+    flex-wrap: wrap;
 }
-.description {
-    flex: 1;
+
+.home-content .lead {
+    flex: 1 1 auto;
 }
-.photo {
+
+.home-content .photo {
+    flex: 0 1 auto;
     margin-left: 20px;
 }
-.photo img {
+
+.home-content .photo img {
     max-width: 100%;
     height: auto;
     border-radius: 4px; /* Rounds the corners */
     box-shadow: 0 15px 15px rgba(0, 0, 0, 0.2); /* Adds a subtle shadowbox */
+}
+
+@media (max-width: 768px) {
+    .home-content {
+        flex-direction: column; /* Stack items vertically */
+        align-items: flex-start; /* Align items to the start */
+    }
+    .home-content .photo {
+        margin-left: 0;
+        margin-top: 20px; /* Add some space above the photo */
+    }
 }
 
 pre {
