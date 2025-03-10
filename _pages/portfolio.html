@@ -18,7 +18,7 @@ permalink: /portfolio
 
         {% for post in site.posts %}
 
-            {% if (post.type == coursework) || (post.type == extra) %}
+            {% if (post.type == "coursework") || (post.type == "extra") %}
 
                 {% include postbox.html %}
                 

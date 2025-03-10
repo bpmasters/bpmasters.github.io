@@ -43,7 +43,7 @@ permalink: /publications
 
         {% for post in site.posts %}
 
-            {% if post.type == journal %}
+            {% if post.type == "journal" %}
 
                 {% include postbox.html %}
                 
@@ -63,7 +63,7 @@ permalink: /publications
 
         {% for post in site.posts %}
 
-            {% if post.type == conference %}
+            {% if post.type == "conference"%}
 
                 {% include postbox.html %}
                 
