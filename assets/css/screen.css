@@ -34,8 +34,8 @@ a:hover {
 .photo img {
     max-width: 100%;
     height: auto;
-    border-radius: 8px; /* Rounds the corners */
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* Adds a subtle shadowbox */
+    border-radius: 4px; /* Rounds the corners */
+    box-shadow: 0 15px 15px rgba(0, 0, 0, 0.2); /* Adds a subtle shadowbox */
 }
 
 pre {
