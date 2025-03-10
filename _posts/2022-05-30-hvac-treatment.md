@@ -5,6 +5,7 @@ author: ben
 categories: [ Acoustics, Modeling, Coursework ]
 image: assets/images/FiberFreeTreatment.png
 hidden: true
+type: coursework
 ---
 
 A fiber-free treatment for the attenuation of HVAC noise in an infamously noisy room in the Purdue Mechanical Engineering building.

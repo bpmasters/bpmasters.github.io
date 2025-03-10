@@ -5,6 +5,7 @@ author: ben
 categories: [ Acoustics, Modeling, Coursework ]
 image: assets/images/AirplaneDesign.png
 hidden: true
+type: coursework
 ---
 
 The design of acoustic treatment for an aircraft fuselage using mathematical modeling.

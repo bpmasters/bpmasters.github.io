@@ -5,6 +5,7 @@ author: ben
 categories: [ Acoustics, Modeling, Coursework ]
 image: assets/images/acousticfilterdesign.png
 hidden: true
+type: coursework
 ---
 
 The design of a passive acoustic filter for a temperature humidity chamber.

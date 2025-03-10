@@ -5,6 +5,7 @@ author: ben
 categories: [ Acoustics, Hearing, Audio, Research]
 image: assets/images/tympan.png
 hidden: true
+type: conference
 ---
 
 Experimental testing of directionality characteristics of an open-source hearing aid.

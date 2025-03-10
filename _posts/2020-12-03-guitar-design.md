@@ -6,6 +6,7 @@ categories: [Audio, Music, Coursework]
 image: assets/images/guitardesignv3.png
 description: "A solid body electric guitar design. Completed for MET 349 - Stringed Instrument Design & Manufacturing at Purdue University."
 hidden: true
+type: coursework
 ---
 
 This solid body guitar was designed for a course in stringed instrument design.

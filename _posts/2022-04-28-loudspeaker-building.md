@@ -5,6 +5,7 @@ author: ben
 categories: [ Audio, Acoustics, Side Projects]
 image: assets/images/Speakers.JPEG
 hidden: true
+type: extra
 ---
 
 These are some speakers I built through the Acoustical Society of America and Audio Engineering Society student chapters at Purdue University. 

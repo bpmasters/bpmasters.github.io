@@ -5,6 +5,7 @@ author: ben
 categories: [ Audio, Acoustics, DSP, Side Projects ]
 image: assets/images/diagram_asa_challenge.png
 hidden: true
+type: extra
 ---
 
 First place winner of the 2023 International Student Challenge in Acoustic Signal Processing hosted by the Acoustical Society of America
