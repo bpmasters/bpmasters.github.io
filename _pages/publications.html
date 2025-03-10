@@ -1,0 +1,65 @@
+---
+layout: page
+title: Publications
+permalink: /publications
+---
+
+{% if page.url == "/publications" %}
+
+<!-- Featured
+================================================== -->
+<section class="featured-publications">
+    <div class="section-title">
+        <h2><span>Featured</span></h2>
+    </div>
+    <div class="row">
+
+    {% for post in site.publications %}
+
+        {% if post.featured == true %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+</section>
+ 
+{% endif %} 
+
+<!-- publications Index
+================================================== -->
+<section class="recent-publications">
+
+    <div class="section-title">
+
+        <h2><span>All Projects</span></h2>
+
+    </div>
+
+    <div class="row listrecent">
+
+        {% for post in site.publications %}
+
+            {% if post.featured != true %}
+
+                {% include postbox.html %}
+                
+            {% endif %}
+            
+        {% endfor %}
+
+    </div>
+
+</section>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>

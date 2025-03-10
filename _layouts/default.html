@@ -75,12 +75,19 @@
                     <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
                 </li>
 
-                {% if page.url == "/portfolio" %}
+                <!-- {% if page.url == "/portfolio" %}
                     <li class="nav-item active">
                 {% else %}
                     <li class="nav-item">
                 {% endif %}
                     <a class="nav-link" href="{{ site.baseurl }}/portfolio">Portfolio</a>
+                </li> -->
+                {% if page.url == "/publications" %}
+                    <li class="nav-item active">
+                {% else %}
+                    <li class="nav-item">
+                {% endif %}
+                    <a class="nav-link" href="{{ site.baseurl }}/publications">Publications</a>
                 </li>
 
                 {% if page.url == "/cv" %}
@@ -89,6 +96,14 @@
                     <li class="nav-item">
                 {% endif %}
                     <a class="nav-link" href="{{ site.baseurl }}/cv">CV</a>
+                </li>
+
+                {% if page.url == "/teaching" %}
+                    <li class="nav-item active">
+                {% else %}
+                    <li class="nav-item">
+                {% endif %}
+                    <a class="nav-link" href="{{ site.baseurl }}/teaching">Teaching</a>
                 </li>
 
                 {% if page.url == "/awards" %}
