@@ -297,6 +297,7 @@ span.post-read-more a:hover {
 
 .mediumnavigation .navbar-brand {
     font-weight: 500;
+    align-items: center;
 }
 
 .mediumnavigation .dropdown-menu {
@@ -328,6 +329,7 @@ span.post-read-more a:hover {
 
 .mainheading h1.sitetitle {
     font-family: Merriweather;
+    font-size:1.5rem;
 }
 
 .mainheading h1.posttitle {
