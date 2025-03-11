@@ -27,14 +27,14 @@ a:hover {
     flex-wrap: wrap;
 }
 
-.home-content .lead {
+/* .home-content .lead {
     flex: 1 1 auto;
-}
-
+} */
+/* 
 .home-content .photo {
     flex: 0 1 auto;
-    /* margin-left: 40px; */
-}
+    margin-left: 40px;
+} */
 
 .home-content .photo img {
     max-width: 100%;

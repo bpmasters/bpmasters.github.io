@@ -3,7 +3,7 @@ layout: post
 title:  "Analysis of Physiological Measures Around Conversational State Changes"
 author: ben
 categories: [ Research ]
-image: assets/images/asa_24_PACE_poster.jpeg
+image: assets/images/asa_24_PACE_poster.jpg
 type: conference
 featured: true
 ---
