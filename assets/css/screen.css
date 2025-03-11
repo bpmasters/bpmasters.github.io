@@ -23,16 +23,21 @@ a:hover {
 
 .home-content {
     display: flex;
-    align-items: center;
-    /* flex-wrap: wrap; */
+    align-items: stretch;
+    flex-wrap: wrap;
 }
 
 .home-content .lead {
-    flex: 1 1 auto;
+    flex: 1 1 60%;
+    display: flex;
+    align-items: center; /* Center content vertically */
 }
 
 .home-content .photo {
-    flex: 0 1 auto;
+    flex: 1 1 40%;
+    display: flex;
+    align-items: center; /* Center content vertically */
+    margin-left: 20px;
 }
 
 .home-content .photo img {
