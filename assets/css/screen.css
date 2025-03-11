@@ -28,13 +28,13 @@ a:hover {
 }
 
 .home-content .lead {
-    flex: 1 1 60%;
-    display: flex;
-    align-items: center; /* Center content vertically */
+    flex: 1 1 75%;
+    /* display: flex; */
+    /* align-items: center; Center content vertically */
 }
 
 .home-content .photo {
-    flex: 1 1 40%;
+    flex: 1 1 25%;
     display: flex;
     align-items: center; /* Center content vertically */
     margin-left: 20px;
@@ -47,7 +47,7 @@ a:hover {
     box-shadow: 0 15px 15px rgba(0, 0, 0, 0.2); /* Adds a subtle shadowbox */
 }
 
-@media (max-width: 768px), (max-width: calc(100vw * 0.4)) {
+@media (max-width: 768px), (max-width: calc(100vw * 0.25)) {
     .home-content {
         flex-direction: column; /* Stack items vertically */
         align-items: flex-start; /* Align items to the start */
