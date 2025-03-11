@@ -29,13 +29,13 @@ a:hover {
 }
 
 .home-content .lead {
-    /* flex: 1 1 75%; */
-    /* display: flex; */
+    flex: 1 1 75%;
+    display: flex;
     /* align-items: center; Center content vertically */
 }
 
 .home-content .photo {
-    /* flex: 1 1 25%; */
+    flex: 1 1 25%;
     display: flex;
     align-items: center; /* Center content vertically */
     margin-left: 20px;
