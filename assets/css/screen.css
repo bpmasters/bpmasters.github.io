@@ -24,7 +24,7 @@ a:hover {
 .home-content {
     display: flex;
     align-items: center;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
 }
 
 .home-content .lead {
