@@ -3,7 +3,7 @@ layout: post
 title:  "The Effects of Delay on Task-Based Interactive Conversation"
 author: ben
 categories: [ Research ]
-image: assets/pdf/asa_24_delay_poster.pdf
+image: assets/images/asa_24_delay_poster.jpeg
 type: conference
 hidden: true
 ---
