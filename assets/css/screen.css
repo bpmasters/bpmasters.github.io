@@ -24,7 +24,7 @@ a:hover {
 .home-content {
     display: flex;
     align-items: stretch;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
 }
 
 .home-content .lead {
@@ -47,7 +47,7 @@ a:hover {
     box-shadow: 0 15px 15px rgba(0, 0, 0, 0.2); /* Adds a subtle shadowbox */
 }
 
-@media (max-width: 768px) {
+@media (max-width: 768px), (max-width: calc(100vw * 0.4)) {
     .home-content {
         flex-direction: column; /* Stack items vertically */
         align-items: flex-start; /* Align items to the start */
