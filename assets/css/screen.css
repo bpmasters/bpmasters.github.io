@@ -154,6 +154,14 @@ section.recent-posts {
     overflow: hidden;
 }
 
+.card h-100 {
+    height: 500px;
+}
+
+.card-body {
+    height: 200px;
+}
+
 .listfeaturedtag .card,
 .card-footer {
     border: 0;
