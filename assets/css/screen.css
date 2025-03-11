@@ -33,13 +33,13 @@ a:hover {
 
 .home-content .photo {
     flex: 0 1 auto;
-    margin-left: 50px;
+    margin-left: 20px;
 }
 
 .home-content .photo img {
     max-width: 50%;
     height: auto;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
     border-radius: 4px; /* Rounds the corners */
     box-shadow: 0 15px 15px rgba(0, 0, 0, 0.2); /* Adds a subtle shadowbox */
 }

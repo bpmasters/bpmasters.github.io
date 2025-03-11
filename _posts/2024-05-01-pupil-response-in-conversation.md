@@ -5,7 +5,7 @@ author: ben
 categories: [ Research ]
 image: assets/images/asa_24_PACE_poster.jpeg
 type: conference
-hidden: true
+featured: true
 ---
 
 Here we introduce a method for analyzing pupil responses during conversation, a task which had not previously been attempted in any fine temporal detail due to the complexity introduced by the necessary simultaneous direction of effort and attention to both listening and speaking. See poster below. Related journal article coming soon.

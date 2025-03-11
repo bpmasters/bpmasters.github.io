@@ -9,7 +9,7 @@ featured: true
 type: extra
 ---
 
-First place winner of the 2023 International Student Challenge in Acoustic Signal Processing hosted by the Acoustical Society of America
+First place winner of the 2024 International Student Challenge in Acoustic Signal Processing hosted by the Acoustical Society of America
 
 # Challenge Problem and Approach
 
