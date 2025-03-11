@@ -2,7 +2,6 @@
 layout: post
 title:  "Acoustic Double Panel System Model"
 author: ben
-categories: [ Acoustics, Modeling, Coursework ]
 image: assets/images/DoublePanel.png
 hidden: true
 type: coursework

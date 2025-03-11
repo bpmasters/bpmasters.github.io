@@ -2,7 +2,6 @@
 layout: post
 title:  "Biologically Plausible Neural Network for Sound Source Localization"
 author: ben
-categories: [ Acoustics, Hearing, Audio, Machine Learning, Modeling, Coursework ]
 image: assets/images/SSLNetwork.png
 featured: false
 hidden: true

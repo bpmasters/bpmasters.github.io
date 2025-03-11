@@ -2,7 +2,6 @@
 layout: post
 title:  "Loudspeaker building"
 author: ben
-categories: [ Audio, Acoustics, Side Projects]
 image: assets/images/Speakers.JPEG
 hidden: true
 type: extra

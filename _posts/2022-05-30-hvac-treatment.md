@@ -2,7 +2,6 @@
 layout: post
 title:  "Fiber-Free Treatment of HVAC Noise"
 author: ben
-categories: [ Acoustics, Modeling, Coursework ]
 image: assets/images/FiberFreeTreatment.png
 hidden: true
 type: coursework
