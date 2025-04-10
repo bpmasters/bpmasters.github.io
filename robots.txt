@@ -1,2 +1,4 @@
 User-agent: *
 Disallow: /assets/pdfs/
+
+Sitemap: https://bpmasters.me/sitemap.xml
