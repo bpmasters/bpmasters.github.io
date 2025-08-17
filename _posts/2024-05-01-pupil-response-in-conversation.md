@@ -4,7 +4,7 @@ title:  "Analysis of Physiological Measures Around Conversational State Changes"
 author: ben
 image: assets/images/asa_24_PACE_poster.jpg
 type: conference
-featured: true
+featured: false
 ---
 
 Derivation of pupillary temporal response functions within conversations.
