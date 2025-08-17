@@ -2,7 +2,7 @@
 layout: post
 title:  "Effects of hearing loss on pupil responses in interactive conversation"
 author: ben
-image: assets/images/HearingLossPupilResponses.jpeg
+image: assets/images/HearingLossPupilResponses.jpg
 type: conference
 featured: false
 ---

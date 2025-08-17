@@ -2,7 +2,7 @@
 layout: post
 title:  "Understanding Effortful Listening In Conversation with Eye-Tracking"
 author: ben
-image: assets/images/EffortfulListeningEyeTracking.jpeg
+image: assets/images/EffortfulListeningEyeTracking.jpg
 type: conference
 featured: false
 ---
