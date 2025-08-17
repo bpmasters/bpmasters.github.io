@@ -12,7 +12,6 @@ comments: true
         </div>
         <h4>University of Waterloo</h4>
         <p><b>BME 252 - Linear Systems and Signals - Spring 2025</b></p>
-        <p>My lecture materials will be posted here upon the close of the course.</p>
         <div class="section-title">
             <h2><span>Teaching Assistantships</span></h2>
         </div>
