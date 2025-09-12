@@ -16,6 +16,7 @@ comments: true
             <h2><span>Teaching Assistantships</span></h2>
         </div>
         <h4>University of Waterloo</h4>
+        <p><b>MTE 252 - Linear Systems and Signals - Fall 2025</b></p>
         <p><b>SYDE 552 - Computational Neuroscience - Winter 2025</b></p>
         <p><b>MTE 252 - Linear Systems and Signals - Fall 2024</b></p>
         <p><b>SYDE 252 - Linear Systems and Signals - Spring 2024</b></p>

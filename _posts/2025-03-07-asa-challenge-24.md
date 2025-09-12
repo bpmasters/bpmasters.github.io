@@ -16,4 +16,4 @@ In this challenge, we applied spectral analysis and acoustic direction of arriva
 
 Note: this was co-authored with my lab-mate Pranav from UWaterloo.
 
-<iframe src="https://bpmasters.me/assets/pdf/asa_challenge_2024.pdf" width="800" height="100%" allow="autoplay"></iframe>
+<iframe src="https://bpmasters.me/assets/pdf/asa_challenge_2024.pdf" style="width:100%;" height="800px" allow="autoplay"></iframe>
