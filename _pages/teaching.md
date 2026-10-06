@@ -6,13 +6,12 @@ comments: false
 ---
 
 <div class="row mb-5 align-items-center">
-    <div class="col-md-6 mb-4 mb-md-0">
-        <img src="{{ site.baseurl }}/assets/images/teaching.png" alt="Teaching Action Shot" class="img-fluid rounded shadow-sm">
+    <div class="col-md-4 mb-4 mb-md-0 text-center">
+        <img src="{{ site.baseurl }}/assets/images/teaching.png" alt="Teaching Action Shot" class="img-fluid rounded shadow-sm" style="max-width: 260px; object-fit: cover;">
     </div>
-    <div class="col-md-6 pl-md-4">
+    <div class="col-md-8 pl-md-4">
         <p class="lead" style="font-size: 1.15rem; line-height: 1.7; color: #444;">
-            I am deeply passionate about engineering education. Over the past several years, I have acted as a primary instructor and teaching assistant for over a dozen academic semesters across biomedical, acoustical, and systems design engineering.
-        </p>
+                        An unexpected outcome of my time in graduate school was that I have learned that I greatly enjoy teaching. Over the past several years, I have acted as a course instructor and teaching assistant in over a dozen academic terms across a variety of biomedical, acoustical, and other engineering courses.
     </div>
 </div>
 
