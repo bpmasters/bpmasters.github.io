@@ -12,7 +12,7 @@ comments: false
         </p>
     </div>
     <div class="col-md-4 text-center">
-        <img src="{{ site.baseurl }}/assets/images/teaching.png" alt="Teaching Action Shot" class="img-fluid rounded-circle shadow-sm" style="max-width: 240px; height: 240px; object-fit: cover; border: 6px solid #fff;">
+        <img src="{{ site.baseurl }}/assets/images/teaching.png" alt="Teaching Action Shot" class="img-fluid rounded-circle shadow-sm" style="max-width: 300px; height: 300px; object-fit: cover; border: 6px solid #fff;">
     </div>
 </div>
 
