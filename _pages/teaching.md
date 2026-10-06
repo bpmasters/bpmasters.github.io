@@ -36,6 +36,13 @@ comments: false
         
         <div class="mb-3 border-bottom pb-3">
             <div class="d-flex justify-content-between align-items-baseline flex-wrap">
+                <h6 class="mb-1 font-weight-bold" style="font-size: 1.1rem; color: #333;">BME 544 - Biomedical Signal Processing</h6>
+                <span class="text-muted text-right">Fall 2023, 2024, 2025<br/>Spring 2023, 2024</span>
+            </div>
+        </div>
+
+        <div class="mb-3 border-bottom pb-3">
+            <div class="d-flex justify-content-between align-items-baseline flex-wrap">
                 <h6 class="mb-1 font-weight-bold" style="font-size: 1.1rem; color: #333;">BME/MTE/SYDE 252 - Linear Systems & Signals</h6>
                 <span class="text-muted text-right">Fall 2023, 2024, 2025<br/>Spring 2023, 2024</span>
             </div>
