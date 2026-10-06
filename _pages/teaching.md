@@ -5,9 +5,14 @@ permalink: /teaching
 comments: false
 ---
 
-<div class="row mb-5">
-    <div class="col-md-10">
-        <img src="{{ site.baseurl }}/assets/images/teaching.png" alt="Teaching Action Shot" class="img-fluid rounded shadow-sm w-100" style="max-height: 400px; object-fit: cover;">
+<div class="row mb-5 align-items-center">
+    <div class="col-md-6 mb-4 mb-md-0">
+        <img src="{{ site.baseurl }}/assets/images/teaching.png" alt="Teaching Action Shot" class="img-fluid rounded shadow-sm">
+    </div>
+    <div class="col-md-6 pl-md-4">
+        <p class="lead" style="font-size: 1.15rem; line-height: 1.7; color: #444;">
+            I am deeply passionate about engineering education. Over the past several years, I have acted as a primary instructor and teaching assistant for over a dozen academic semesters across biomedical, acoustical, and systems design engineering.
+        </p>
     </div>
 </div>
 
