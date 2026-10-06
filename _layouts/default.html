@@ -32,6 +32,9 @@
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body class="{{layout}}">
+    <!-- Soundwave Art Overlay -->
+    <div class="soundwave-overlay"></div>
+
 	<!-- defer loading of font and font awesome -->
 	<noscript id="deferred-styles">
 		<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap" rel="stylesheet">
@@ -39,18 +42,32 @@
 	</noscript>
     
     <style>
-        body {
-            background-image: url('{{ site.baseurl }}/assets/images/bg-waves.svg');
-            background-repeat: no-repeat;
-            background-position: left top;
-            background-attachment: fixed;
-            background-size: auto 100vh;
-        }
         body, h1, h2, h3, h4, h5, h6, .navbar-brand, .mediumnavigation .navbar-brand span, .nav-link, p, a {
             font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
         }
         .navbar-brand { font-weight: 700; }
         .nav-link { font-weight: 500; }
+
+        /* Soundwave Overlay */
+        .soundwave-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 200px;
+            height: 100vh;
+            background-image: url('{{ site.baseurl }}/assets/images/bg-waves.svg');
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
+            pointer-events: none;
+            z-index: 9999;
+            display: none; /* Hide on mobile */
+        }
+        
+        @media (min-width: 992px) {
+            .soundwave-overlay {
+                display: block; /* Show on desktop */
+            }
+        }
     </style>
 
 
