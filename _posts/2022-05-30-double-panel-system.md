@@ -10,4 +10,10 @@ type: coursework
 A mathematical model of a double-panel system, often used to significantly increase acoustic attenuation.
 
 
-<iframe src="https://drive.google.com/file/d/1HPYKLnV6gBXwPpheU_5GB-GfK9NzfoU_/preview" width="800" height="600" allow="autoplay"></iframe>
+
+<div class="text-center mt-4 mb-4">
+    <a href="https://drive.google.com/file/d/1HPYKLnV6gBXwPpheU_5GB-GfK9NzfoU_/preview" class="btn btn-outline-dark btn-lg" target="_blank">
+        View Document / PDF
+    </a>
+</div>
+

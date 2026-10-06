@@ -15,4 +15,10 @@ This project was completed as part of one of my favorite courses I've taken, Sim
 My architecture utilized a binaural set of LMU's, inspired by the encoding done in tandem by the cochlear nuclei and superior olivary complex for sound source localization in the mammalian brain. After implementing this architecture in TensorFlow, I then converted it into Nengo, and developed an implementation of the model with spiking neurons. My detailed final report can be seen below.
 
 
-<iframe src="https://drive.google.com/file/d/1xsjc4dvWxk6HYIxXvid_oYpslDUl7YlU/preview" style="width:100%;" height="800px" allow="autoplay"></iframe>
+
+<div class="text-center mt-4 mb-4">
+    <a href="https://drive.google.com/file/d/1xsjc4dvWxk6HYIxXvid_oYpslDUl7YlU/preview" class="btn btn-outline-dark btn-lg" target="_blank">
+        View Document / PDF
+    </a>
+</div>
+

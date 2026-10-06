@@ -14,4 +14,9 @@ This study is, to our knowledge, the first to manipulate the turn-taking dynamic
 [See the publication online from JASA.](https://pubs.aip.org/asa/jasa/article/158/4/3107/3368619/Variable-delay-affects-conversational-turn-taking)
 
 
-<iframe src="https://bpmasters.me/assets/pdf/masters-macdonald-2025-variable-delay-turn-taking.pdf" width="800" height="1000" allow="autoplay"></iframe>
+
+<div class="text-center mt-4 mb-4">
+    <a href="{{ site.baseurl }}/assets/pdf/masters-macdonald-2025-variable-delay-turn-taking.pdf" class="btn btn-outline-dark btn-lg" target="_blank">
+        View Document / PDF
+    </a>
+</div>

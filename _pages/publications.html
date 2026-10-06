@@ -4,57 +4,87 @@ title: Publications
 permalink: /publications
 ---
 
+<style>
+.pub-item {
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #eee;
+}
+.pub-item:last-child {
+    border-bottom: none;
+}
+.pub-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 0.3rem;
+}
+.pub-title a {
+    color: #222;
+}
+.pub-title a:hover {
+    color: #03a87c;
+    text-decoration: none;
+}
+.pub-meta {
+    font-size: 0.95rem;
+    color: #666;
+    margin-bottom: 0.5rem;
+}
+.pub-abstract {
+    font-size: 0.95rem;
+    color: #444;
+    line-height: 1.6;
+}
+</style>
+
 <!-- Posts Index
 ================================================== -->
 <section class="recent-posts">
 
     <div class="section-title">
-
         <h2><span>Journal Articles</span></h2>
-
     </div>
 
-    <div class="row listrecent">
-
+    <div class="listrecent mb-5">
         {% for post in site.posts %}
-
             {% if post.type == "journal" %}
-
-                {% include postbox.html %}
-                
+                <div class="pub-item">
+                    <h3 class="pub-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+                    <div class="pub-meta">
+                        Published {{ post.date | date: "%B %Y" }}
+                    </div>
+                    <div class="pub-abstract mb-3">
+                        {{ post.content | strip_html | truncatewords: 50 }}
+                    </div>
+                    <div class="pub-links">
+                        <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-sm btn-outline-dark">Read More & View PDF</a>
+                    </div>
+                </div>
             {% endif %}
-            
         {% endfor %}
-
     </div>
 
-    <div class="section-title">
-
+    <div class="section-title mt-5">
         <h2><span>Conference Presentations</span></h2>
-
     </div>
 
-    <div class="row listrecent">
-
+    <div class="listrecent">
         {% for post in site.posts %}
-
             {% if post.type == "conference"%}
-
-                {% include postbox.html %}
-                
+                <div class="pub-item">
+                    <h3 class="pub-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+                    <div class="pub-meta">
+                        Presented {{ post.date | date: "%B %Y" }}
+                    </div>
+                    <div class="pub-abstract mb-3">
+                        {{ post.content | strip_html | truncatewords: 50 }}
+                    </div>
+                    <div class="pub-links">
+                        <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-sm btn-outline-dark">Read More & View Poster</a>
+                    </div>
+                </div>
             {% endif %}
-            
         {% endfor %}
-
     </div>
 
 </section>
-
-<!-- Pagination
-================================================== -->
-<div class="bottompagination">
-<div class="pointerup"><i class="fa fa-caret-up"></i></div>
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
-</div>
