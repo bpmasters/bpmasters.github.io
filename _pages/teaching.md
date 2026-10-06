@@ -5,6 +5,12 @@ permalink: /teaching
 comments: false
 ---
 
+<div class="row mb-5">
+    <div class="col-md-10">
+        <img src="{{ site.baseurl }}/assets/images/teaching.png" alt="Teaching Action Shot" class="img-fluid rounded shadow-sm w-100" style="max-height: 400px; object-fit: cover;">
+    </div>
+</div>
+
 <div class="row">
     <div class="col-md-10">
         
