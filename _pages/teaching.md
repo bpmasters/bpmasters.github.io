@@ -5,18 +5,19 @@ permalink: /teaching
 comments: false
 ---
 
-<div class="row mb-5 align-items-center">
-    <div class="col-md-4 mb-4 mb-md-0 text-center">
-        <img src="{{ site.baseurl }}/assets/images/teaching.png" alt="Teaching Action Shot" class="img-fluid rounded shadow-sm" style="max-width: 260px; object-fit: cover;">
-    </div>
-    <div class="col-md-8 pl-md-4">
+<div class="row mt-4 mb-5 align-items-center">
+    <div class="col-md-8 pr-md-4">
         <p class="lead" style="font-size: 1.15rem; line-height: 1.7; color: #444;">
-                        An unexpected outcome of my time in graduate school was that I have learned that I greatly enjoy teaching. Over the past several years, I have acted as a course instructor and teaching assistant in over a dozen academic terms across a variety of biomedical, acoustical, and other engineering courses.
+            An unexpected outcome of my time in graduate school was that I have learned that I greatly enjoy teaching. Over the past several years, I have acted as a course instructor and teaching assistant in over a dozen academic terms across a variety of biomedical, acoustical, and other engineering courses.
+        </p>
+    </div>
+    <div class="col-md-4 text-center">
+        <img src="{{ site.baseurl }}/assets/images/teaching.png" alt="Teaching Action Shot" class="img-fluid rounded-circle shadow-sm" style="max-width: 240px; height: 240px; object-fit: cover; border: 6px solid #fff;">
     </div>
 </div>
 
 <div class="row">
-    <div class="col-md-10">
+    <div class="col-md-12">
         
         <h2 class="font-weight-bold mb-4 border-bottom pb-2">Sessional Instruction</h2>
         
