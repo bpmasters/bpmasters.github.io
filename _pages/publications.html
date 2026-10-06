@@ -48,16 +48,27 @@ permalink: /publications
     <div class="listrecent mb-5">
         {% for post in site.posts %}
             {% if post.type == "journal" %}
-                <div class="pub-item">
-                    <h3 class="pub-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-                    <div class="pub-meta">
-                        Published {{ post.date | date: "%B %Y" }}
+                <div class="pub-item row align-items-center">
+                    {% if post.image %}
+                    <div class="col-md-3 mb-3 mb-md-0 text-center">
+                        <a href="{{ site.baseurl }}{{ post.url }}">
+                            <img src="{{ site.baseurl }}/{{ post.image }}" alt="{{ post.title }}" class="img-fluid rounded shadow-sm" style="object-fit: cover; width: 100%; max-height: 160px;">
+                        </a>
                     </div>
-                    <div class="pub-abstract mb-3">
-                        {{ post.content | strip_html | truncatewords: 50 }}
-                    </div>
-                    <div class="pub-links">
-                        <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-sm btn-outline-dark">Read More & View PDF</a>
+                    <div class="col-md-9">
+                    {% else %}
+                    <div class="col-md-12">
+                    {% endif %}
+                        <h3 class="pub-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+                        <div class="pub-meta">
+                            Published {{ post.date | date: "%B %Y" }}
+                        </div>
+                        <div class="pub-abstract mb-3">
+                            {{ post.content | strip_html | truncatewords: 40 }}
+                        </div>
+                        <div class="pub-links">
+                            <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-sm btn-outline-dark">Read More & View PDF</a>
+                        </div>
                     </div>
                 </div>
             {% endif %}
@@ -71,16 +82,27 @@ permalink: /publications
     <div class="listrecent">
         {% for post in site.posts %}
             {% if post.type == "conference"%}
-                <div class="pub-item">
-                    <h3 class="pub-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-                    <div class="pub-meta">
-                        Presented {{ post.date | date: "%B %Y" }}
+                <div class="pub-item row align-items-center">
+                    {% if post.image %}
+                    <div class="col-md-3 mb-3 mb-md-0 text-center">
+                        <a href="{{ site.baseurl }}{{ post.url }}">
+                            <img src="{{ site.baseurl }}/{{ post.image }}" alt="{{ post.title }}" class="img-fluid rounded shadow-sm" style="object-fit: cover; width: 100%; max-height: 160px;">
+                        </a>
                     </div>
-                    <div class="pub-abstract mb-3">
-                        {{ post.content | strip_html | truncatewords: 50 }}
-                    </div>
-                    <div class="pub-links">
-                        <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-sm btn-outline-dark">Read More & View Poster</a>
+                    <div class="col-md-9">
+                    {% else %}
+                    <div class="col-md-12">
+                    {% endif %}
+                        <h3 class="pub-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+                        <div class="pub-meta">
+                            Presented {{ post.date | date: "%B %Y" }}
+                        </div>
+                        <div class="pub-abstract mb-3">
+                            {{ post.content | strip_html | truncatewords: 40 }}
+                        </div>
+                        <div class="pub-links">
+                            <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-sm btn-outline-dark">Read More & View Poster</a>
+                        </div>
                     </div>
                 </div>
             {% endif %}
