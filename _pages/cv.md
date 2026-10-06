@@ -14,11 +14,13 @@ comments: false
 ## Education
 
 **University of Waterloo**
+
 *Ph.D., Biomedical Engineering* <span class="float-right">Expected 2028</span><br/>
 *M.A.Sc., Systems Design Engineering* <span class="float-right">2024</span><br/>
 *Graduate Certificate in University Teaching* <span class="float-right">2026</span><br/>
 
 **Purdue University**
+
 *B.S.E., Acoustical Engineering* <span class="float-right">2022</span>
 
 ---

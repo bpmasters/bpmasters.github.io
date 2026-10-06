@@ -2,23 +2,13 @@
 layout: default
 ---
 
-
-<section>
-    <div class="section-title">
-        <h1><span>{{ page.title }}</span></h1>
-    </div>
-
-    <div class="article-post">
-    {{content}}
-    </div>
-
-    {% if page.comments == true %}
-
-    <div id="comments" class="row mb-5">
-        <div class="col-md-8">
-            {% include disqus.html %}
+<div class="container mb-5">
+    <div class="row mb-5">
+        <div class="col-md-12">
+            <h1 class="font-weight-bold mb-5" style="color: #222;">{{ page.title }}</h1>
+            <div class="article-post">
+                {{ content }}
+            </div>
         </div>
     </div>
-
-    {% endif %}
-</section>
+</div>
