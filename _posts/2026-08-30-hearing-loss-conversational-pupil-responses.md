@@ -16,7 +16,7 @@ Here we demonstrate that hearing loss affects pupil responses during conversatio
 
 
 <div class="text-center mt-4 mb-4">
-    <a href="{{ site.baseurl }}/assets/pdf/masters-et-al-2026-hearing-loss-is-reflected-in-conversational-pupil-responses" class="btn btn-outline-dark btn-lg" target="_blank">
+    <a href="{{ site.baseurl }}/assets/pdf/masters-et-al-2026-hearing-loss-is-reflected-in-conversational-pupil-responses.pdf" class="btn btn-outline-dark btn-lg" target="_blank">
         View Document / PDF
     </a>
 </div>

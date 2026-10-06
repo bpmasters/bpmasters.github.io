@@ -10,18 +10,18 @@ comments: false
         
         <h2 class="font-weight-bold mb-4 border-bottom pb-2">Sessional Instruction</h2>
         
-        <h4 class="mt-4 mb-3" style="color: #03a87c;">University of Waterloo</h4>
+        <h4 class="mt-4 mb-3" style="color: #57068c;">University of Waterloo</h4>
         <div class="mb-4">
             <div class="d-flex justify-content-between align-items-baseline flex-wrap">
                 <h5 class="mb-1 font-weight-bold" style="color: #222;">BME 252 - Linear Systems & Signals</h5>
-                <span class="text-muted font-weight-bold">Spring 2025</span>
+                <span class="text-muted font-weight-bold">Spring 2025, 2026</span>
             </div>
-            <p class="text-muted">Primary Instructor</p>
+            <p class="text-muted">Sole Course Instructor</p>
         </div>
 
         <h2 class="font-weight-bold mb-4 mt-5 border-bottom pb-2">Teaching Assistantships</h2>
         
-        <h4 class="mt-4 mb-3" style="color: #03a87c;">University of Waterloo</h4>
+        <h4 class="mt-4 mb-3" style="color: #57068c;">University of Waterloo</h4>
         
         <div class="mb-3 border-bottom pb-3">
             <div class="d-flex justify-content-between align-items-baseline flex-wrap">
@@ -51,7 +51,7 @@ comments: false
             </div>
         </div>
 
-        <h4 class="mt-5 mb-3" style="color: #03a87c;">Purdue University</h4>
+        <h4 class="mt-5 mb-3" style="color: #57068c;">Purdue University</h4>
         
         <div class="mb-3">
             <div class="d-flex justify-content-between align-items-baseline flex-wrap">

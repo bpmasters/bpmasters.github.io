@@ -71,6 +71,7 @@ comments: false
 * Acted as a teaching assistant for several courses over 10+ academic semesters. Courses TA’d: Introduction to Biomedical Design, Biomedical Signal Processing, Linear Systems & Signals (x5), Computational Neuroscience, Simulating Neuro-biological Systems, Communication in Biomedical Engineering.
 
 **Purdue University** — West Lafayette, Indiana
+
 *Teaching Assistant* <span class="float-right">Spring 2022</span>
 * Graded assignments and exams for a course in Acoustics and Noise Control.
 
